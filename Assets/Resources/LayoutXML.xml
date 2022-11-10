@@ -1,0 +1,14 @@
+<xml>
+ <multiplier x="1" y="1"/>
+ <slot type="drawpile" x="2" y="0" xstagger="0,05" layer="6"/>
+ <slot type="discardpile" x="-30" y="0" layer="2"/>
+ <slot type="target" x="-20" y="0" layer="4"/>
+ <slot type="hand" x="0" y="0" rot="0" player="1" layer="6"/>
+ <slot type="hand" x="0" y="-45" rot="0" player="2" layer="6"/>
+ <slot type="hand" x="0" y="-45" rot="270" player="3" layer="6"/>
+ <slot type="hand" x="0" y="-45" rot="90" player="4" layer="6"/>
+ <slot type="raw" x="0" y="0" rot="0" layer="6"/>
+ <slot type="raw" x="0" y="0" rot="0" layer="6"/>
+ <slot type="raw" x="0" y="0" rot="0" layer="6"/>
+ <slot type="raw" x="0" y="0" rot="0" layer="6"/>
+</xml>

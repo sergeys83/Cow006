@@ -1,0 +1,12 @@
+Logo = 
+Quit = Quit
+Close = Apply
+Restart = Restart
+Title = Purpose of the game
+Play = PLAY
+Options = OPTIONS
+Points = Points	
+Volume = VOLUME
+Entername = Enter name
+Music = MUSIC
+Rules = Rules

@@ -1,0 +1,36 @@
+
+Title=Purpose of the game
+/n
+/nScore as few penalties as possible (they are drawn on all maps).
+/n
+/nGame preparation
+/n
+/nAll players are dealt 10 cards, 4 more
+/ncards are laid out face up - 4 rows will start from them.
+/n
+/nEach turn, all players choose one card from their hand. When choosing a card, the following 4 rules should be considered:
+/n
+/nNo. 1. "Ascending". Cards in a row should go in ascending order.
+/nNo. 2. "Minimum difference." The card will fall in a row where the difference between your
+/n card and the last in a row - minimal.
+/nNo. 3. The Sixth Cow. If, due to the first two rules, your card is 6th
+/n in its line - alas, you are out of luck. You
+/n they must take the whole row to themselves, and put their card first in this row.
+/n
+/nNo. 4. "The smallest card." If your card number is so small that it
+/n can not be put in any of the rows (according to rule No. 1), then you have to pick up one of the rows. In this case, you decide which row to pick.
+/nYour card becomes the first in the empty row.
+/n
+/nEach turn, players lay out 1 card, then these cards are laid out in
+/n rows according to four rules. Before the start of the next turn, players receive 1 card from the deck.
+/nThe game ends when there are no cards left in the deck and on the hands.
+/n
+/nFor each card taken from the table, penalty points are awarded:
+/n
+/n-Green card - 1 point
+/n-Blue card - 2 points
+/n-Yellow card - 3 points
+/n-Orange card - 5 points
+/n- Map 55 - 7 points
+/n
+/nThe player with the least penalties wins.
